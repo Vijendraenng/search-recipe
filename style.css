@@ -73,6 +73,8 @@ header nav {
 }
 
 .recipe-container {
+     min-height: 90vh;
+    min-width:95vw;
     text-align: center;
     margin: 30px 0;
     display: flex;
